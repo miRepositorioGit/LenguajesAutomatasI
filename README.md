@@ -24,22 +24,88 @@ La aportación de la asignatura al perfil del egresado será específicamente la
 
 # Intención didáctica
 
+Esta asignatura es de vital importancia para toda la carrera, como es una asignatura sobre lenguajes
+formales, el enfoque debe coincidir con la formalidad de los mismos. Cada tema debe ser acompañado
+de una serie de ejercicios y prácticas que permitan redondear los temas revisados en clase. Esta
+asignatura se presta para la participación activa de los estudiantes en la discusión de los temas y
+ejemplificación de casos. También permite que el estudiante se acerque al análisis de problemas del
+área industrial, como diseño, manufactura, tratamiento de lenguaje natural, robótica, inteligencia
+artificial, procesamiento de consultas en base de datos, procesamiento de consultas en Web, análisis y
+diseño de algoritmos, entre otros.
+En este sentido, el profesor debe guiar, comentar, corregir o completar las investigaciones que el
+estudiante realice. Estas investigaciones deben buscar como objetivo el desarrollo de la creatividad y
+la integración del estudiante dentro del grupo. La creatividad permitirá vislumbrar las fronteras dentro
+de este campo.
+Como puede apreciarse, las competencias generales que pueden estimularse son, entre otras:
+
+* Capacidad de discernir los aspectos relevantes de investigaciones documentales.
+* Comunicación oral y escrita para presentar resultados de investigación documental.
+* Análisis y síntesis de problemas de procesamiento de información.
+* Integración de grupos de trabajo, a veces multidisciplinarios.
+* Solución de problemas a planteamientos específicos.
+* Toma de decisiones para determinar la mejor forma de resolver un problema.
+* Uso de Estándares de desarrollo para la implementación de soluciones.
 
 # Competencia de desarrollar 
 
-[1]
+Define, diseña y programa las fases del analizador léxico y sintáctico de un traductor o compilador
+para preámbulo de la construcción de un compilador [1].
 
 # Competencias previas
 
-
+Conoce, comprende y aplica las estructuras de datos, métodos de ordenamiento y búsqueda para la
+optimización del rendimiento de soluciones de problemas del contexto [1].
 
 # Temario
 
-
+| Temas                 | Subtemas               |
+| --------------------- | -----------------------|
+| Introducción a la     | Alfabeto.              |
+| teoría de lenguajes   | Cadenas. 				 |
+| formales              | Lenguajes, tipos y herramientas.|
+|                       | Estructura de un traductor.     |
+|                       | Fases de un compilador.| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Expresiones           | Definición formal de una expresión regular .|
+| regulares.            | Diseño de una expresión regular.|
+|                       | Aplicaciones en problemas reales.|
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Autómatas             | Conceptor: Definición y clasificación de autómata finito .|
+| finitos.              | Conversión de un autómata finito no determinista a autómata finito determinista .|
+|                       | Representación de una expresión regular usando un autómata no determinista .|
+|                       | Minimización de  estados en un autómata finito.|
+|                       | Aplicaciones (definición de un caso de estudio).| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Análisis              | Funciones del analizador léxico.|
+| léxico.               | Componentes léxicos, patrones y lexemas.|
+|                       | Creación de tabla de tokens .|
+|                       | Errores léxicos .|
+|                       | Generadores de analizadores léxicos .| 
+|                       | Aplicaciones .| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Análisis              | Definición y clasificación de gramáticas .|
+| sintáctico.           | Gramaticas libres de contexto .|
+|                       | Árboles de derivación.|
+|                       | Formas normales de CHOMSKY.|
+|                       | Diagramas de sintaxis.| 
+|                       | Eliminación de ambigüedad.|
+|                       | Tipos de analizadores sintácticos.|
+|                       | Generación de matriz predictiva.| 
+|                       | Manejo de errores.| 
+|                       | Generadores de analizadores sintácticos.| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Máquina de            | Definición formal de la Máquina de TURING.|
+| TURING.               | Construcción modular de una Máquina de TURING.|
+|                       | Lenguajes aceptados por la Máquina de TURING.|
+|                       | 						 |  
+| --------------------- | -----------------------|
 
 # Referencias.
-
-
 
 [1] Tecnológico Nacional de México. 
 Secretaría Académica, de Investigación e Innovación.
