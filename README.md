@@ -116,7 +116,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
 
 | Evaluación diagnóstica						 |
-| https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/ED_LA_UNO.pdf												 |
+| https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf |
 | --------------------- | -----------------------|
 
 
