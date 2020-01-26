@@ -119,51 +119,14 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
  https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf 
 
 
-| Temas                 | Subtemas               | Valor [%] 	|
-| --------------------- | -----------------------|           	|
-| Introducción a la teoría de lenguajes formales | Glosario. 	| 20 |
-|   										     | Cuestionario.| 20 |
-|               								 | Evaluación escrita.| 20 |
-|                       					     | Lista cotejo.| 20 |
-|                       						 | Rúbrica.| 20 | 
-| --------------------- | -----------------------|
-| Expresiones regulares.| 						 |
-|             |
-|                       | .|
-|                       | 						 |  
-| --------------------- | -----------------------|
-| Autómatas             | .|
-| finitos.              | .|
-|                       | .|
-|                       | .|
-|                       | .| 
-|                       | 						 |  
-| --------------------- | -----------------------|
-| Análisis              | .|
-| léxico.               | .|
-|                       | .|
-|                       | .|
-|                       | .| 
-|                       | .| 
-|                       | 						 |  
-| --------------------- | -----------------------|
-| Análisis              | .|
-| sintáctico.           | .|
-|                       | .|
-|                       | .|
-|                       | .| 
-|                       | .|
-|                       | .|
-|                       | .| 
-|                       | .| 
-|                       | .| 
-|                       | 						 |  
-| --------------------- | -----------------------|
-| Máquina de            | .|
-| TURING.               | .|
-|                       | .|
-|                       | 						 |  
-| --------------------- | -----------------------|
+| Temas                                          | Subtemas               | Valor [%] 	|
+| ---------------------------------------------- | -----------------------| ------------|
+| Introducción a la teoría de lenguajes formales | Glosario. 	          | 20          |
+|   										     | Cuestionario.		  | 20          |
+|               								 | Evaluación escrita.    |          20 |
+|                       					     | Lista cotejo.          |          20 |
+|                       						 | Rúbrica.               |          20 | 
+| -----------------------------------------------| -----------------------| ------------|
 
 # Referencias.
 
