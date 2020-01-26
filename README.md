@@ -115,12 +115,10 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 # Evaluación.
 
 
- Evaluación diagnóstica						 
-| https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf |
-| --------------------- | -----------------------|
+ Evaluación diagnóstica	
+ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf 
 
 
-| --------------------- | -----------------------|
 | Temas                 | Subtemas               |
 | --------------------- | -----------------------|
 | --------------------- | -----------------------|
