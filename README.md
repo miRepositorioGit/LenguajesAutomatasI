@@ -122,11 +122,11 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Temas                 | Subtemas               |
 | --------------------- | -----------------------|
 | --------------------- | -----------------------|
-| Introducción a la     | Glosario.|
-| teoría de lenguajes   | Cuestionario.|
-| formales              | Evaluación escrita.|
-|                       | Lista cotejo.|
-|                       | Rúbrica.| 
+| Introducción a la teoría de lenguajes formales | Glosario.|
+|   										     | Cuestionario.|
+|               								 | Evaluación escrita.|
+|                       					     | Lista cotejo.|
+|                       						 | Rúbrica.| 
 |                       | 						 |  
 | --------------------- | -----------------------|
 | Expresiones           | .|
