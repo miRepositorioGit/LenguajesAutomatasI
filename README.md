@@ -112,6 +112,63 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 |                       | 						 |  
 | --------------------- | -----------------------|
 
+# Evaluación.
+
+| --------------------- | -----------------------|
+| Evaluación diagnóstica						 |
+| https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/ED_LA_UNO.pdf												 |
+| --------------------- | -----------------------|
+
+
+| --------------------- | -----------------------|
+| Temas                 | Subtemas               |
+| --------------------- | -----------------------|
+| --------------------- | -----------------------|
+| Introducción a la     | Glosario.|
+| teoría de lenguajes   | Cuestionario.|
+| formales              | Evaluación escrita.|
+|                       | Lista cotejo.|
+|                       | Rúbrica.| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Expresiones           | .|
+| regulares.            | .|
+|                       | .|
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Autómatas             | .|
+| finitos.              | .|
+|                       | .|
+|                       | .|
+|                       | .| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Análisis              | .|
+| léxico.               | .|
+|                       | .|
+|                       | .|
+|                       | .| 
+|                       | .| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Análisis              | .|
+| sintáctico.           | .|
+|                       | .|
+|                       | .|
+|                       | .| 
+|                       | .|
+|                       | .|
+|                       | .| 
+|                       | .| 
+|                       | .| 
+|                       | 						 |  
+| --------------------- | -----------------------|
+| Máquina de            | .|
+| TURING.               | .|
+|                       | .|
+|                       | 						 |  
+| --------------------- | -----------------------|
+
 # Referencias.
 
 [1] Tecnológico Nacional de México. 
@@ -120,4 +177,4 @@ Dirección de Docencia e Innovación Educativa.
 Lenguajes y autómatas II. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 SATCA Sistema de Asignación y Trnasferencia de Créditos Académicos.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf
