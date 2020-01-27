@@ -119,14 +119,14 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
  https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf 
 
 
-| Temas                                          | Objeto                 | Valor [%] 	|
-| ---------------------------------------------- | -----------------------| ------------|
-| Introducción a la teoría de lenguajes formales | Glosario. 	          | 20          |
-|   										     | Cuestionario.		  | 20          |
-|               								 | Evaluación escrita.    |          20 |
-|                       					     | Lista cotejo.          |          20 |
-|                       						 | Rúbrica.               |          20 | 
-| -----------------------------------------------| -----------------------| ------------|
+| Temas                                             | Objeto   [2]           | Valor [%]   |
+| ------------------------------------------------- | -----------------------| ------------|
+| Introducción a la teoría de lenguajes formales    | Glosario [3]. 	     | 20          |
+|   										        | Resumen.		         | 20          |
+|               								    | Evaluación escrita.    |          20 |
+|                       					        | Cuadro comparativo [4].|          20 |
+|                       						    | Programa de cómputo[5].|          20 | 
+| --------------------------------------------------| -----------------------| ------------|
 
 # Referencias.
 
@@ -141,3 +141,13 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Lenguajes%20
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020.pdf
+
+[3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares
+proporcionadas por el profesor y lo desarrolla autógrafa e individual.
+
+[4] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
+lenguajes interpretados y compilados conforme a plantilla propuesta.
+
+[5] Modela y codifica en un lenguaje compilado e interpretado una calculadora estadística (moda, mediana,
+media, frecuencia de un arreglo de 10 números reales estáticos).
