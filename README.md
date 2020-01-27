@@ -123,13 +123,13 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
 | Introducción a la teoría de lenguajes formales    |  	                     |             |
-|             Fechas de entrega [7]                    |                        |             |
+|             Fechas de entrega [7]                 |                        |             |
 | Miércoles  5 febrero 2020                         | Glosario [3].          | 20          |   
-| Miércoles 12 febrero 2020 			            | Resumen [4].		         | 20          |
+| Miércoles 12 febrero 2020 			            | Resumen [4].		     | 20          |
 | Miércoles 15 febrero 2020					        | Evaluación escrita.    |          20 |
 | Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].|          20 |
 | Miércoles 26 febrero 2020   					    | Programa de cómputo[6].|          20 | 
-| Viernes   28 febrero 2020                         | Primer seguimiento.    |             |  
+| Viernes   28 febrero 2020                         | Primer seguimiento [7].|             |  
 | --------------------------------------------------| -----------------------| ------------|
   
 # Referencias.
