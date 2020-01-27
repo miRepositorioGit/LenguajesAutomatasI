@@ -151,5 +151,6 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/L
 lenguajes interpretados y compilados conforme a plantilla propuesta.
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx
 
-[5] Modela y codifica en un lenguaje compilado e interpretado una calculadora estadística (moda, mediana,
-media, frecuencia de un arreglo de 10 números reales estáticos).
+[5] Modela y codifica en un lenguaje compilado y un lenguaje interpretado una calculadora estadística 
+(moda, mediana, media, frecuencia de un arreglo de 10 números reales estáticos).
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf
