@@ -128,7 +128,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 |                       					        | Cuadro comparativo [4].|          20 |
 |                       						    | Programa de cómputo[5].|          20 | 
 | --------------------------------------------------| -----------------------| ------------|
- 
+  
 # Referencias.
 
 [1] Tecnológico Nacional de México. 
