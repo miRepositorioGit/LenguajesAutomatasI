@@ -148,6 +148,7 @@ proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 
 [4] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
 lenguajes interpretados y compilados conforme a plantilla propuesta.
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx
 
 [5] Modela y codifica en un lenguaje compilado e interpretado una calculadora estadística (moda, mediana,
 media, frecuencia de un arreglo de 10 números reales estáticos).
