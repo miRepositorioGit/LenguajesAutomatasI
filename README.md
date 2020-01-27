@@ -129,7 +129,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Vienes  21 febrero 2020  					        | Evaluación escrita.    |          20 |
 | Viernes 28 febrero 2020  					        | Cuadro comparativo [4].|          20 |
 | Viernes  6 marzo   2020  						    | Programa de cómputo[5].|          20 | 
-| Lunes   24 marzo   2020                           |                        |             |  
+| Lunes   24 marzo   2020                           | Primer seguimiento.    |             |  
 | --------------------------------------------------| -----------------------| ------------|
   
 # Referencias.
@@ -159,3 +159,5 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/C
 [5] Modela y codifica en un lenguaje compilado y un lenguaje interpretado una calculadora estadística 
 (moda, mediana, media, frecuencia de un arreglo de 10 números reales estáticos).
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf
+
+[6] Calendario periodo Enero-Junio 2020.
