@@ -145,6 +145,7 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/I
 
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/LC_T1_LA_UNO.docx
 
 [4] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
 lenguajes interpretados y compilados conforme a plantilla propuesta.
