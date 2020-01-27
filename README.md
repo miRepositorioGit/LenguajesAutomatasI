@@ -123,12 +123,12 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
 | Introducción a la teoría de lenguajes formales    |  	                     |             |
-|             Fechas de entrega                     |                        |             |
+|             Fechas de entrega [7]                    |                        |             |
 | Miércoles  5 febrero 2020                         | Glosario [3].          | 20          |   
-| Miércoles 12 febrero 2020 			            | Resumen.		         | 20          |
+| Miércoles 12 febrero 2020 			            | Resumen [4].		         | 20          |
 | Miércoles 15 febrero 2020					        | Evaluación escrita.    |          20 |
-| Miércoles 19 febrero 2020    			            | Cuadro comparativo [4].|          20 |
-| Miércoles 26 febrero 2020   					    | Programa de cómputo[5].|          20 | 
+| Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].|          20 |
+| Miércoles 26 febrero 2020   					    | Programa de cómputo[6].|          20 | 
 | Viernes   28 febrero 2020                         | Primer seguimiento.    |             |  
 | --------------------------------------------------| -----------------------| ------------|
   
@@ -142,7 +142,6 @@ Ingeniería en Sistemas Computacionales.
 SATCA Sistema de Asignación y Trnasferencia de Créditos Académicos.
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf
 
-
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
@@ -152,13 +151,16 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/I
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/LC_T1_LA_UNO.docx
 
-[4] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
+[4]Realiza un resumen autógrafamente e individualmente basándose en el glosario
+https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf
+
+[5] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
 lenguajes interpretados y compilados conforme a plantilla propuesta.
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx
 
-[5] Modela y codifica en un lenguaje compilado y un lenguaje interpretado una calculadora estadística 
+[6] Modela y codifica en un lenguaje compilado y un lenguaje interpretado una calculadora estadística 
 (moda, mediana, media, frecuencia de un arreglo de 10 números reales estáticos).
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf
 
-[6] Calendario periodo Enero-Junio 2020.
+[7] Calendario periodo Enero-Junio 2020.
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CalendarioEneroJunio2020.jpeg
