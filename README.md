@@ -67,12 +67,12 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
 | Temas                 | Subtemas               |
 | --------------------- | -----------------------|
-| Introducción a la     | Alfabeto.              |
-| teoría de lenguajes   | Cadenas. 				 |
-| formales              | Lenguajes, tipos y herramientas.|
-|                       | Estructura de un traductor.     |
-|                       | Fases de un compilador.| 
-|                       | 						 |  
+| **Introducción a la**     | Alfabeto.          |
+| **teoría de lenguajes**   | Cadenas. 			 |
+| **formales**              | Lenguajes, tipos y herramientas.|
+|             	            | Estructura de un traductor.     |
+|                       	| Fases de un compilador.| 
+|                       	| 						 |  
 | --------------------- | -----------------------|
 | Expresiones           | Definición formal de una expresión regular .|
 | regulares.            | Diseño de una expresión regular.|
