@@ -121,7 +121,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
-| Introducción a la teoría de lenguajes formales.   |  	                     |             |
+| **Introducción a la teoría de lenguajes formales.**|  	                 |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles  5 febrero 2020                         | Glosario [3].          | 20          |   
 | Miércoles 12 febrero 2020 			            | Resumen [4].		     | 20          |
@@ -131,9 +131,10 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Viernes   28 febrero 2020                         | Primer seguimiento [7].|             |  
 | 							                        | Firma primer seguimiento [7].|       |  
 | 													| 						 |			   |
-| Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
-| Autómatas finitos.							    |  	                     |             |
+| Temas                                             | Objeto   [2]           | Valor [%]   |
+|  | | |
+|** Autómatas finitos.**						    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 04 marzo 2020                           | Glosario Instalacion[8].| 20         |   
 | Miércoles 11 marzo 2020 			                | Resumen [9].		     | 20          |
@@ -145,7 +146,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | --------------------------------------------------| -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
-| Análisis léxico y sintáctico.   				    |  	                     |             |
+| **Análisis léxico y sintáctico.**				    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 22 abril 2020                           | Glosario Instalacion [12].| 20       |   
 | Viernes   24 abril 2020 			                | Resumen [13].		     | 20          |
@@ -157,7 +158,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | --------------------------------------------------| -----------------------| ------------| 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
-| Máquina de TURING   							    |  	                     |             |
+| **Máquina de TURING.**						    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 22 mayo 2020                            | Glosario  [12].        | 20          |   
 | Viernes   25 mayo 2020 			                | Resumen [13].		     | 20          |
@@ -166,7 +167,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | --------------------------------------------------| -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
-| Fin de semestre   							    |  	                     |             |
+| *Fin de semestre*   							    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Lunes     01 junio 2020                           | Segunda oportunidad.   | 20          |   
 | Miércoles 03 junio 2020 			                | Firma final.		     | 20          |
