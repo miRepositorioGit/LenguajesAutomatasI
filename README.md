@@ -67,36 +67,40 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
 | Temas                 | Subtemas               |
 | --------------------- | -----------------------|
-| **Introducción a la teoría de lenguajes formales**  |           |
-| 			            |  Alfabeto.         |
-|    					| Cadenas. 			 |
+| **Introducción a la teoría de lenguajes formales.**| |
+| 			            | Alfabeto.              |
+|    					| Cadenas. 		     	 |
 |              			| Lenguajes, tipos y herramientas.|
 |             	        | Estructura de un traductor.     |
 |                       | Fases de un compilador.| 
 |                       | 						 |  
 | --------------------- | -----------------------|
-| Expresiones           | Definición formal de una expresión regular .|
-| regulares.            | Diseño de una expresión regular.|
+| **Expresiones regulares.**|          			 |
+|                       | Definición formal de una expresión regular .|
+|             | Diseño de una expresión regular.|
 |                       | Aplicaciones en problemas reales.|
 |                       | 						 |  
 | --------------------- | -----------------------|
-| Autómatas             | Concepto, definición y clasificación de autómata finito .|
-| finitos.              | Conversión de un autómata finito no determinista a autómata finito determinista .|
+| **Autómatas finitos.**| 						 |
+|                       | Concepto, definición y clasificación de autómata finito .|
+|                       | Conversión de un autómata finito no determinista a autómata finito determinista .|
 |                       | Representación de una expresión regular usando un autómata no determinista .|
 |                       | Minimización de  estados en un autómata finito.|
 |                       | Aplicaciones (definición de un caso de estudio).| 
 |                       | 						 |  
 | --------------------- | -----------------------|
-| Análisis              | Funciones del analizador léxico.|
-| léxico.               | Componentes léxicos, patrones y lexemas.|
+| **Análisis léxico.**  | 						 |
+| 					    | Funciones del analizador léxico.|
+|                       | Componentes léxicos, patrones y lexemas.|
 |                       | Creación de tabla de tokens .|
 |                       | Errores léxicos .|
 |                       | Generadores de analizadores léxicos .| 
 |                       | Aplicaciones .| 
 |                       | 						 |  
 | --------------------- | -----------------------|
-| Análisis              | Definición y clasificación de gramáticas .|
-| sintáctico.           | Gramaticas libres de contexto .|
+| **Análisis sintáctico.**| 					 |
+| 		                | Definición y clasificación de gramáticas .|
+|                       | Gramaticas libres de contexto .|
 |                       | Árboles de derivación.|
 |                       | Formas normales de CHOMSKY.|
 |                       | Diagramas de sintaxis.| 
@@ -107,8 +111,9 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 |                       | Generadores de analizadores sintácticos.| 
 |                       | 						 |  
 | --------------------- | -----------------------|
-| Máquina de            | Definición formal de la Máquina de TURING.|
-| TURING.               | Construcción modular de una Máquina de TURING.|
+| **Máquina de TURING.**| 						 |
+| 				        | Definición formal de la Máquina de TURING.|
+|                       | Construcción modular de una Máquina de TURING.|
 |                       | Lenguajes aceptados por la Máquina de TURING.|
 |                       | 						 |  
 | --------------------- | -----------------------|
