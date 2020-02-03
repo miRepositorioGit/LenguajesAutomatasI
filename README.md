@@ -130,7 +130,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 26 febrero 2020   					    | Programa de cómputo[6].|          20 | 
 | Viernes   28 febrero 2020                         | Primer seguimiento [7].|             |  
 | 							                        | Firma primer seguimiento [7].|       |  
-| --------------------------------------------------| -----------------------| ------------|
+| 													| 						 |			   |
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
 | Autómatas finitos.							    |  	                     |             |
