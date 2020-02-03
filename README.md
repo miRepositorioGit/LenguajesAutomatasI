@@ -133,8 +133,8 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | 													| 						 |			   |
 | ------------------------------------------------- | -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
-|  | | |
-|** Autómatas finitos.**						    |  	                     |             |
+|												    |                        |             |
+|**Autómatas finitos.**				   		        |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 04 marzo 2020                           | Glosario Instalacion[8].| 20         |   
 | Miércoles 11 marzo 2020 			                | Resumen [9].		     | 20          |
@@ -145,7 +145,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | 							                        | Firma segundo seguimiento [7].|      |   
 | --------------------------------------------------| -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
-| ------------------------------------------------- | -----------------------| ------------|
+|												    |                        |             |
 | **Análisis léxico y sintáctico.**				    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 22 abril 2020                           | Glosario Instalacion [12].| 20       |   
@@ -157,7 +157,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | 							                        | Firma tercer seguimiento [7].|       |    
 | --------------------------------------------------| -----------------------| ------------| 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
-| ------------------------------------------------- | -----------------------| ------------|
+|												    |                        |             |
 | **Máquina de TURING.**						    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Miércoles 22 mayo 2020                            | Glosario  [12].        | 20          |   
@@ -166,7 +166,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 29 mayo 2020    			            | Programa de cómputo[14].|         20 |
 | --------------------------------------------------| -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
-| ------------------------------------------------- | -----------------------| ------------|
+|												    |                        |             |
 | *Fin de semestre*   							    |  	                     |             |
 |             Fechas de entrega [7]                 |                        |             |
 | Lunes     01 junio 2020                           | Segunda oportunidad.   | 20          |   
