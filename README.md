@@ -163,4 +163,3 @@ https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/C
 https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf
 
 [7] Calendario periodo Enero-Junio 2020.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CalendarioEneroJunio2020.jpeg
