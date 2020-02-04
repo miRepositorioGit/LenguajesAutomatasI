@@ -133,7 +133,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Viernes   14 febrero 2020					        | Evaluación escrita.                    |                                                                                                                                                                                     | 20 |
 | Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].                |[Plantilla cuadro comparativo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx)         | 20 |
 | Miércoles 26 febrero 2020   					    | Programa de cómputo[6].                |[Rúbrica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf)                                                                           | 20 | 
-| Viernes   28 febrero 2020                         | Primer seguimiento [7].                |				|             |  
+| Viernes   28 febrero 2020                         | Primer seguimiento [7].                |				|   100       |  
 | 							                        | Firma primer seguimiento [7].			 |              |             |  
 | 													| 						 ||             |
 | ------------------------------------------------- | -----------------------| ------------|
