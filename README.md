@@ -193,14 +193,14 @@ SATCA Sistema de Asignación y Transferencia de Créditos Académicos.
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf
+[Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
 
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/LC_T1_LA_UNO.docx
+[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/LC_T1_LA_UNO.docx)
 
 [4]Realiza un resumen autógrafamente e individualmente basándose en el glosario.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf
+[Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
 
 [5] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
 lenguajes interpretados y compilados conforme a plantilla propuesta.
