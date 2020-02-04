@@ -121,8 +121,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 # Evaluación.
 
  Evaluación diagnóstica. 
- 
- https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf 
+ [Mirar y descargar Evaluación diagnóstica: ](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
 
 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
@@ -195,7 +194,6 @@ Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 [Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
 
-
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 [Mirar y descargar: Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
@@ -203,18 +201,18 @@ proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 
 
 [4]Realiza un resumen autógrafamente e individualmente basándose en el glosario.
-[Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
+[Mirar y descargar: Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
 
 [5] Realiza de forma colectiva (TRES MIEMBROS) un cuadro de análisis comparativo entre
 lenguajes interpretados y compilados conforme a plantilla propuesta.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx
+[Descargar plantilla cuadro comparativo: ](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx)
 
 [6] Modela y codifica en un lenguaje compilado y un lenguaje interpretado una calculadora estadística 
 (moda, mediana, media, frecuencia de un arreglo de 10 números reales estáticos).
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf
+[Descargar rúbrica: ](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf)
 
 [7] Calendario periodo Enero-Junio 2020.
-https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CalendarioEneroJunio2020.pdf
+[Descargar calendario: ](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CalendarioEneroJunio2020.pdf)
 
 [8] Investiga los significados técnicos y elabora un glosario de palabras disciplinares
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
