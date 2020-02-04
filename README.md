@@ -122,8 +122,8 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
  Evaluación diagnóstica. 
  [Descargar evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
-
-
+ 
+ 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 | ------------------------------------------------- | -----------------------| ------------|
 | **Introducción a la teoría de lenguajes formales.**|  	                 |             |
