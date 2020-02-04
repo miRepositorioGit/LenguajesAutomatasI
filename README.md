@@ -197,7 +197,7 @@ Ingeniería en Sistemas Computacionales.
 
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
-[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/LC_T1_LA_UNO.docx)
+[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
 
 [4]Realiza un resumen autógrafamente e individualmente basándose en el glosario.
 [Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
