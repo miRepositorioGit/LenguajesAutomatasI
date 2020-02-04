@@ -188,17 +188,17 @@ Dirección de Docencia e Innovación Educativa.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 SATCA Sistema de Asignación y Transferencia de Créditos Académicos.
-[Descargar: Lenguajes y Autómatas Uno](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)
+[Mirar y Descargar: Lenguajes y Autómatas Uno](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)
 
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
-[Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
+[Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
 
 
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
-[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
+[Mirar y descargar: Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
 
 
 
