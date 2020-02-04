@@ -195,9 +195,12 @@ Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 [Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
 
+
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 [Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
+
+
 
 [4]Realiza un resumen autógrafamente e individualmente basándose en el glosario.
 [Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
