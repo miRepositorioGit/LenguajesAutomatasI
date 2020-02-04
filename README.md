@@ -134,21 +134,20 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].                |[Plantilla cuadro comparativo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx)         | 20 |
 | Miércoles 26 febrero 2020   					    | Programa de cómputo[6].                |[Rúbrica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf)                                                                           | 20 | 
 | Viernes   28 febrero 2020                         | Primer seguimiento, firma primer seguimiento [7].|	|   100       |  
-| 							                        | 			 							 |              |             |  
 | 													| 						                 |              |             |
 | 													|										 | 				|			  |
 | Temas                                             | Evidencia   [2]                        | Instrumento  | Valor [%]   |
 |												    |                                        |              |             |
 |**Autómatas finitos.**				   		        |  	                    			     |				|             |
 |             Fechas de entrega [7]                 |                        				 |				|             |
-| Miércoles 04 marzo 2020                           | Glosario Instalacion[8].				 |				| 20          |   
+| Miércoles 04 marzo 2020                           | Glosario Instalacion [8].				 |				| 20          |   
 | Miércoles 11 marzo 2020 			                | Resumen [9].		     			     |				| 20          |
 | Viernes   14 marzo 2020					        | Evaluación escrita.    				 |				| 20 		  |
-| Miércoles 18 marzo 2020    			            | Programa de cómputo[10].				 |				| 20          |
-| Viernes   20 marzo 2020   					    | Programa de cómputo[11].				 |				| 20		  | 
+| Miércoles 18 marzo 2020    			            | Programa de cómputo [10].				 |				| 20          |
+| Viernes   20 marzo 2020   					    | Programa de cómputo [11].				 |				| 20		  | 
 | Miércoles 25 marzo 2020                           | Segundo seguimiento [7].				 |				|             | 
 | 							                        | Firma segundo seguimiento [7].         |              |             |   
-| --------------------------------------------------|----------------------------------------|--------------|-------------|
+| 							                        | 			 							 |              |             |  
 | Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
 |												    |                                        |              |             |
 | **Análisis léxico y sintáctico.**				    |  	                                     |              |             |
@@ -156,11 +155,11 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 22 abril 2020                           | Glosario Instalacion [12].             |              | 20          |   
 | Viernes   24 abril 2020 			                | Resumen [13].		                     |              | 20          |
 | Miércoles 29 abril 2020					        | Evaluación escrita.                    |              | 20          |
-| Miércoles 06 mayo  2020    			            | Programa de cómputo[14].               |              | 20          |
-| Miércoles 13 mayo  2020   					    | Programa de cómputo[15].               |              | 20          | 
+| Miércoles 06 mayo  2020    			            | Programa de cómputo [14].              |              | 20          |
+| Miércoles 13 mayo  2020   					    | Programa de cómputo [15].              |              | 20          | 
 | Lunes     18 mayo  2020                           | Tercer seguimiento [7].                |              |             |
 | 							                        | Firma tercer seguimiento [7].          |              |             |    
-| --------------------------------------------------|----------------------------------------|--------------|-------------|
+| 							                        | 			 							 |              |             |  
 | Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
 |												    |      					                 |              |             |
 | **Máquina de TURING.**						    |  	                                     |              |             |
@@ -168,8 +167,8 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 22 mayo 2020                            | Glosario  [12].                        |              | 20          |   
 | Viernes   25 mayo 2020 			                | Resumen [13].		                     |              | 20          |
 | Viernes   27 mayo 2020					        | Evaluación escrita.                    |              | 20		  |
-| Miércoles 29 mayo 2020    			            | Programa de cómputo[14].               |              | 20          |
-| --------------------------------------------------|----------------------------------------|--------------|-------------|
+| Miércoles 29 mayo 2020    			            | Programa de cómputo [14].              |              | 20          |
+| 							                        | 			 							 |              |             |  
 | Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
 |												    |                                        |              |             |
 | *Fin de semestre*   							    |  	                                     |              |             |
