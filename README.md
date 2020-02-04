@@ -187,7 +187,7 @@ Dirección de Docencia e Innovación Educativa.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 SATCA Sistema de Asignación y Transferencia de Créditos Académicos.
-##[Descargar temario.](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)
+__[Descargar temario.](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)__
 
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
