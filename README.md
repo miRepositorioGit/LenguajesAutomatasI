@@ -121,7 +121,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 # Evaluación.
 
  Evaluación diagnóstica. 
- [Descargar Evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
+ [Descargar evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
 
 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
@@ -187,7 +187,7 @@ Dirección de Docencia e Innovación Educativa.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
 Ingeniería en Sistemas Computacionales.
 SATCA Sistema de Asignación y Transferencia de Créditos Académicos.
-[Mirar y Descargar: Lenguajes y Autómatas Uno](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)
+[Descargar temario](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)
 
 [2] Instrumentación didáctica. Periodo Enero-julio 2020.
 Lenguajes y autómatas I. SCD-1015 SATCA 2-3-5
