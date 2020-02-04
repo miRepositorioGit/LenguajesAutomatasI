@@ -121,7 +121,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 # Evaluación.
 
  Evaluación diagnóstica. 
- [Mirar y descargar Evaluación diagnóstica: ](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
+ [Descargar Evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
 
 
 | Temas                                             | Objeto   [2]           | Valor [%]   |
@@ -197,8 +197,6 @@ Ingeniería en Sistemas Computacionales.
 [3] Investiga los significados técnicos y elabora un glosario de palabras disciplinares.
 proporcionadas por el profesor y lo desarrolla autógrafa e individual.
 [Mirar y descargar: Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf)
-
-
 
 [4]Realiza un resumen autógrafamente e individualmente basándose en el glosario.
 [Mirar y descargar: Guia observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)
