@@ -124,10 +124,10 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
  [Descargar evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
 
 
-| Temas                                             | Evidencia   [2]                        | Instrumento  | Valor [%]   |
-| ------------------------------------------------- |----------------------------------------|--------------|-------------|
-| **Introducción a la teoría de lenguajes formales.**|  	                                 |  Descargar    |             |
-|             Fechas de entrega [7]                 |                                        |              |             |
+| Temas                                             | Evidencia   [2]                        | Instrumento          | Valor [%]   |
+| ------------------------------------------------- |----------------------------------------|----------------------|-------------|
+| **Introducción a la teoría de lenguajes formales.**|  	                                 | Descargar e imprimir |             |
+|             Fechas de entrega [7]                 |                                        |                      |             |
 | Miércoles  5 febrero 2020                         | Glosario de palabras disciplinares [3] |[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf).| 20 |   
 | Miércoles 12 febrero 2020 			            | Resumen [4].		                     |[Guia de observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)   													   | 20 |
 | Viernes   14 febrero 2020					        | Evaluación escrita.                    |                                                                                                                                                                                     | 20 |
