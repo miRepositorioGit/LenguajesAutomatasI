@@ -136,7 +136,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Viernes   28 febrero 2020                         | Primer seguimiento, firma primer seguimiento [7].|	|   100       |  
 | 							                        | 			 							 |              |             |  
 | 													| 						                 |              |             |
-| ------------------------------------------------- |----------------------------------------|------------- | ------------|
+| 													|										 | 				|			  |
 | Temas                                             | Evidencia   [2]                        | Instrumento  | Valor [%]   |
 |												    |                                        |              |             |
 |**Autómatas finitos.**				   		        |  	                    			     |				|             |
