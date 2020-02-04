@@ -174,7 +174,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 |												    |                                        |              |             |
 | *Fin de semestre*   							    |  	                                     |              |             |
 |             Fechas de entrega [7]                 |                      					 |              |             |
-| Lunes     01 junio 2020                           | Segunda oportunidad.                   |              | 70          |   
+| Lunes     01 junio 2020                           | Segunda oportunidad.                   |              | **70**      |   
 | Miércoles 03 junio 2020 			                | Firma final.		                     |              |             |
 | --------------------------------------------------|----------------------------------------|--------------|-------------|
 
