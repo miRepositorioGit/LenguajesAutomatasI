@@ -122,20 +122,20 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 
  Evaluación diagnóstica. 
  [Descargar evaluación diagnóstica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/ED_LA_UNO.pdf)
- 
- 
-| Temas                                             | Objeto   [2]           | Valor [%]   |
-| ------------------------------------------------- | -----------------------| ------------|
-| **Introducción a la teoría de lenguajes formales.**|  	                 |             |
-|             Fechas de entrega [7]                 |                        |             |
-| Miércoles  5 febrero 2020                         | Glosario [Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf).          | 20          |   
-| Miércoles 12 febrero 2020 			            | Resumen [4].		     | 20          |
-| Viernes   14 febrero 2020					        | Evaluación escrita.    |          20 |
-| Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].|          20 |
-| Miércoles 26 febrero 2020   					    | Programa de cómputo[6].|          20 | 
-| Viernes   28 febrero 2020                         | Primer seguimiento [7].|             |  
-| 							                        | Firma primer seguimiento [7].|       |  
-| 													| 						 |			   |
+
+
+| Temas                                             | Objeto   [2]           |Evidencia     | Valor [%]   |
+| ------------------------------------------------- | -----------------------|--------------|-------------|
+| **Introducción a la teoría de lenguajes formales.**|  	                 |              |             |
+|             Fechas de entrega [7]                 |                        |              |             |
+| Miércoles  5 febrero 2020                         | Glosario               |[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf).|   20 |   
+| Miércoles 12 febrero 2020 			            | Resumen [4].		     || 20          |
+| Viernes   14 febrero 2020					        | Evaluación escrita.    ||          20 |
+| Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].||          20 |
+| Miércoles 26 febrero 2020   					    | Programa de cómputo[6].||          20 | 
+| Viernes   28 febrero 2020                         | Primer seguimiento [7].||             |  
+| 							                        | Firma primer seguimiento [7].||       |  
+| 													| 						 ||             |
 | ------------------------------------------------- | -----------------------| ------------|
 | Temas                                             | Objeto   [2]           | Valor [%]   |
 |												    |                        |             |
