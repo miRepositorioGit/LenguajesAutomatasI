@@ -77,7 +77,7 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | --------------------- | -----------------------|
 | **Expresiones regulares.**|          			 |
 |                       | Definición formal de una expresión regular .|
-|             | Diseño de una expresión regular.|
+|            			| Diseño de una expresión regular.|
 |                       | Aplicaciones en problemas reales.|
 |                       | 						 |  
 | --------------------- | -----------------------|
@@ -131,10 +131,21 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles  5 febrero 2020                         | Glosario de palabras disciplinares [3] |[Lista de cotejo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_1_IntroduccionTeoriaLenguajesFormales/InstrumentosEvaluacion/LC_T1_LA_UNO.pdf).| 20 |   
 | Miércoles 12 febrero 2020 			            | Resumen [4].		                     |[Guia de observación](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/GO_Resumen_LA_UNO.pdf)   													   | 20 |
 | Viernes   14 febrero 2020					        | Evaluación escrita.                    |                                                                                                                                                                                     | 20 |
-| Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].                |[Plantilla cuadro comparativo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx)         | 20 |
+| Miércoles 19 febrero 2020    			            | Cuadro comparativo [5].                |[Plantilla cuadro comparativo](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/CuadroAnalisisComparativoIntroduccionLenguajesFormales.docx)           | 20 |
 | Miércoles 26 febrero 2020   					    | Programa de cómputo[6].                |[Rúbrica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/RU_T1_LA_UNO.pdf)                                                                           | 20 | 
 | Viernes   28 febrero 2020                         | Primer seguimiento, firma primer seguimiento [7].|	|   100       |  
 | 													| 						                 |              |             |
+| Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
+|												    |                                        |              |             |
+| **Análisis léxico y sintáctico.**				    |  	                                     |              |             |
+|             Fechas de entrega [7]                 |                                          |              |             |
+| Miércoles 11 marzo 2020                           | Reporte y glosario de palabras disciplinares video. [Lista de cotejo] (https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_2_AnalizadorLexicoSintactico/LC_T2_LA_UNO.pdf)				       | 20 |   
+| Viernes   13 marzo 2020      						| Mapa conceptual.[Cómo crear un mapa conceptual].	                    (https://www.lucidchart.com/pages/es/como-crear-un-mapa-conceptual)                                                                                    | 20 |
+| Miércoles 18 marzo 2020					        | Instalación y prueba de software de interpretación [Instalación y configuración de ANTLRv4]. (https://github.com/jpavlich/antlr4-tutorial/blob/master/doc/instalacion.md)                              					   | 20 |
+| Viernes   20 marzo 2020    			          	| Evaluación escrita.  																																																		   | 20 |
+| Lunes   	23 marzo 2020				            | Interprete de lenguaje UNO.            					             																																					   | 20 | 
+| Miércoles 27 marzo 2020                           | Segundo seguimiento [7].               |              |             |
+| 							                        | 							             |              |             | 
 | 													|										 | 				|			  |
 | Temas                                             | Evidencia   [2]                        | Instrumento  | Valor [%]   |
 |												    |                                        |              |             |
@@ -148,17 +159,6 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Miércoles 25 marzo 2020                           | Segundo seguimiento [7].				 |				|             | 
 | 							                        | Firma segundo seguimiento [7].         |              |             |   
 | 							                        | 			 							 |              |             |  
-| Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
-|												    |                                        |              |             |
-| **Análisis léxico y sintáctico.**				    |  	                                     |              |             |
-|             Fechas de entrega [7]                 |                                        |              |             |
-| Miércoles 22 abril 2020                           | Glosario Instalacion [12].             |              | 20          |   
-| Viernes   24 abril 2020 			                | Resumen [13].		                     |              | 20          |
-| Miércoles 29 abril 2020					        | Evaluación escrita.                    |              | 20          |
-| Miércoles 06 mayo  2020    			            | Programa de cómputo [14].              |              | 20          |
-| Miércoles 13 mayo  2020   					    | Programa de cómputo [15].              |              | 20          | 
-| Lunes     18 mayo  2020                           | Tercer seguimiento [7].                |              |             |
-| 							                        | Firma tercer seguimiento [7].          |              |             |    
 | 							                        | 			 							 |              |             |  
 | Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
 |												    |      					                 |              |             |
