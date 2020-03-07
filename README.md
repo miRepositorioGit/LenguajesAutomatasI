@@ -138,12 +138,12 @@ optimización del rendimiento de soluciones de problemas del contexto [1].
 | Temas                                             | Evidencia   [2]                        |Instrumento   | Valor [%]   |
 |												    |                                        |              |             |
 | **Análisis léxico y sintáctico.**				    |  	                                     |              |             |
-|             Fechas de entrega [7]                 |                                          |              |             |
-| Miércoles 11 marzo 2020                           | Reporte y glosario de palabras disciplinares video. [Lista de cotejo] (https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_2_AnalizadorLexicoSintactico/LC_T2_LA_UNO.pdf)				       | 20 |   
-| Viernes   13 marzo 2020      						| Mapa conceptual.[Cómo crear un mapa conceptual].	                    (https://www.lucidchart.com/pages/es/como-crear-un-mapa-conceptual)                                                                                    | 20 |
-| Miércoles 18 marzo 2020					        | Instalación y prueba de software de interpretación [Instalación y configuración de ANTLRv4]. (https://github.com/jpavlich/antlr4-tutorial/blob/master/doc/instalacion.md)                              					   | 20 |
-| Viernes   20 marzo 2020    			          	| Evaluación escrita.  																																																		   | 20 |
-| Lunes   	23 marzo 2020				            | Interprete de lenguaje UNO.            					             																																					   | 20 | 
+|             Fechas de entrega [7]                 |                                        |              |             |
+| Miércoles 11 marzo 2020                           | Reporte y glosario de palabras disciplinares video.| [Lista de cotejo].                         (https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Pdf/Competencia_2_AnalizadorLexicoSintactico/LC_T2_LA_UNO.pdf) | 20 |   
+| Viernes   13 marzo 2020      						| Mapa conceptual.                                   |[Cómo crear un mapa conceptual].            (https://www.lucidchart.com/pages/es/como-crear-un-mapa-conceptual)                                                                 | 20 |
+| Miércoles 18 marzo 2020					        | Instalación y prueba de software de interpretación.| [Instalación y configuración de ANTLRv4].  (https://github.com/jpavlich/antlr4-tutorial/blob/master/doc/instalacion.md)                              					      | 20 |
+| Viernes   20 marzo 2020    			          	| Evaluación escrita.                                | 																																												  | 20 |
+| Lunes   	23 marzo 2020				            | Interprete de lenguaje UNO.                        |           					             																																	  | 20 | 
 | Miércoles 27 marzo 2020                           | Segundo seguimiento [7].               |              |             |
 | 							                        | 							             |              |             | 
 | 													|										 | 				|			  |
