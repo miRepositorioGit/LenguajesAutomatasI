@@ -1,0 +1,23 @@
+Compilador.
+Intérprete.
+Datos de entrada.
+Datos de salida.
+Etapas de un proceso de interpretación.
+Lexer.
+Tokens.
+Flujo de tokens.
+Gramática regular.
+Gramática de atributos		
+Gramática libre de contexto
+Análisis léxico.
+Análisis sintáctico.
+Análisis semántico.
+Código máquina.
+Código fuente.
+Árbol de sintaxis.
+
+
+Referencia.
+
+Pavlich-Mariscal Jaime. Proceso de interpretación de un lenguaje de programación.
+https://www.youtube.com/watch?v=WrlgULIJqEw&t=26s
